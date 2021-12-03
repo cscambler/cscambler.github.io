@@ -9,4 +9,4 @@ redirect_from:
 ---
 I'm pretty cool.
 
-Here is a ["link to some papers"](https://cscambler.github.io/publications/).
+Here is a [link to some papers](https://cscambler.github.io/publications/).
