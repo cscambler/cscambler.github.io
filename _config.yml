@@ -83,15 +83,38 @@ author:
   name             : "Chris Scambler"
   avatar           : "magritte.jpeg"
   bio              : "I'm a philosopher specializing in logic and metaphysics"
-  location         : "Oxford"
+  location         : "Oxford, UK"
   employer         : "All Souls College, Oxford University"
-  googlescholar    : ["Google Scholar"](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Chris+scambler&btnG=)
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  orcid            : "https://orcid.org/0000-0001-9325-5106"
- 
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
