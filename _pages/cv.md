@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV here](https://cscambler.github.io/files/cv.pdf)
+[here](https://cscambler.github.io/files/cv.pdf)
