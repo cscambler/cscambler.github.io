@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm pretty cool.
+I am a postdoctoral research fellow in philosophy at All Souls College, Oxford University. My main areas of research interest involve logic, metaphysics, foundations of mathematics, and my favorite issues to think about involve healthy doses of each. 
 
-Here is a [link to some papers](https://cscambler.github.io/publications/).
+The problem that interests me most in philosophy is the broadly Kantian project of disentangling ways the world truly is, in itself as it were, from ways we merely tend to speakr or think of at is being as a result of arbitrary features of grammar or conceptual scheme. This general problem has many variants in philosophy and much (but not all) of my work is directed at such variants.

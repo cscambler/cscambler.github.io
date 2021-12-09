@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Can All Things Be Counted"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper presents and defends a modal version of set theory according to which there is only one size of infinity.'
+date: 2021-04-01
+venue: 'Journal of Philosophical Logic'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/s10992-021-09593-w.pdf'
+citation: 'Scambler, Chris. (2021). &quot;Can All Things Be COunted.&quot; <i>Journal of Philosophical Logic</i>. 50 (5), 1079-1106.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/content/pdf/10.1007/s10992-021-09593-w.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Scambler, Chris. (2021). "Can All Things Be Counted." <i>Journal of Philosophical Logic</i>. 50 (5), 1079-1106.
