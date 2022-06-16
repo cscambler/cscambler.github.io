@@ -84,7 +84,8 @@ author:
   avatar           : "magritte.jpeg"
   bio              : "I am a philosopher specializing in logic, metaphysics, and philosophy of mathematics."
   location         : "Oxford, UK"
-  employer         : "All Souls College, Oxford University"
+  employer         : "All Souls College,   
+Oxford University"
   googlescholar    : "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=PR2DHZQAAAAJ"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   linkedin         :
