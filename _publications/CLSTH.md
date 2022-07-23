@@ -3,7 +3,7 @@ title: "Classical Logic and the Strict Tolerant Hierarchy"
 collection: publications
 permalink: /publication/CLSTH
 excerpt: 'In their article “A Hierarchy of Classical and Paraconsistent Logics”, Eduardo Barrio, Federico Pailos and Damien Szmuc present novel and striking results about meta-inferential validity in various three valued logics. In the process, they have thrown open the door to a hitherto unrecognized domain of non-classical logics with surprising intrinsic properties, as well as subtle and interesting relations to various familiar logics, including classical logic. One such result is that, for each natural number n, there is a logic which agrees with classical logic on tautologies, inferences, meta-inferences, meta-meta-inferences, meta-meta-...(n - 3 times)-meta-inferences, but that disagrees with classical logic on n + 1-meta-inferences. They suggest that this shows that classical logic can only be characterized by defining its valid inferences at all orders. In this article, I invoke some simple symmetric generalizations of BPS’s results to show that the problem is worse than they suggest, since in fact there are logics that agree with classical logic on inferential validity to all orders but still intuitively differ from it. I then discuss the relevance of these results for truth theory and the classification problem.'
-date: 2020-02-01
+date: 2021-01-01
 venue: 'Journal of Philosophical Logic'
 paperurl: 'https://link.springer.com/article/10.1007/s10992-019-09520-0'
 citation: 'Scambler, Chris. (2021). &quot;Classical Logic and the Strict-Tolerant Hierarchy.&quot; <i>Journal of Philosophical Logic</i>. 49, pages 1079–1089.'
