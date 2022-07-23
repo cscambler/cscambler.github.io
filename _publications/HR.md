@@ -1,7 +1,7 @@
 ---
 title: "Review: Geoffrey Hellman, 'Mathematics and its Logics'"
 collection: publications
-permalink: /publication/CATBC
+permalink: /publication/HR
 excerpt: "This is a book review of a collection of Hellman's papers, comissioned by Philosophia Mathematica."
 date: 2022-06-01
 venue: 'Philosophia Mathematica'
