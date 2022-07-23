@@ -1,5 +1,5 @@
 ---
-title: "Ineffability and Revenge'"
+title: "Ineffability and Revenge"
 collection: publications
 permalink: /publication/IR
 excerpt: "In this paper I build on work of Philip Welch exploring the logical and philosophical properties of a novel kind of revenge paradox arising for Field's theory of truth, the 'ineffable liar'."
