@@ -21,11 +21,6 @@ The focal project of my All Souls fellowship,
 logic can be used resuscitate the core ideas of 
 Fregean/Russellian logicism: that is, that the 
 theorems of mathematics can be derived in the "pure" logic
-of quantification theory. Outside of that 
-main project I am working on various other topics, 
-including on the 
-relation between contingentism about existence and 
-possible worlds semantics, on the merits of Kit 
-Fine's "procedural postulationist" foundation for 
-mathematics, and on the application of contextualist 
-tools to the paradoxes of set theory.
+of quantification theory. I also have active research 
+interests regarding the semantic paradoxes and the independence 
+phenomenon in set theory.
