@@ -1,12 +1,12 @@
 ---
 title: "On the Consistency of Height and Width Potentialism"
-collection: publications
-permalink: /publication/CHWP
-excerpt: 'This paper explores the mathematical strength inherent in the combination of potentialism about `height' and `width' in set theory. Along the way, new results about the relation between width potentialism and topological regularity theses are brought out.'
+collection: "publications"
+permalink: "/publication/CHWP"
+excerpt: "This paper explores the mathematical strength inherent in the combination of potentialism about 'height' and 'width' in set theory. Along the way, new results about the relation between width potentialism and topological regularity theses are brought out."
 date: 2024-08-01
-venue: 'Palgrave Companion to the Philosophy of Set Theory'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-62387-5_12'
-citation: 'Scambler, Chris. (2024). &quot;On the Consistency of Height and Width Potentialism.&quot; in <i>The Palgrave Companion to the Philosophy of Set Theory</i>. 305-331.'
+venue: "Palgrave Companion to the Philosophy of Set Theory"
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-031-62387-5_12"
+citation: "Scambler, Chris. (2024). \"On the Consistency of Height and Width Potentialism.\" in <i>The Palgrave Companion to the Philosophy of Set Theory</i>. 305–331."
 ---
 Recent work in the philosophy of set theory has furnished some arguments that height and width potentialism are inconsistent with one another. One such argument can be found in this volume (Brauer, Forth., What is forcing potentialism? Forthcoming in the Palgrave Companion to the Philosophy of Set Theory, 2024); another is forthcoming (Roberts, Ultimate v. Ms Under Review, 2024).
 
