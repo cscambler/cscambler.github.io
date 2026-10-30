@@ -14,7 +14,7 @@ author_profile: true
 
 {% assign sorted_publications = site.publications | sort: "date" | reverse %}
 
-<div style="height: 20px;"></div>
+<div style="height: 15px;"></div>
 {% for post in sorted_publications %}
 
 <details style="margin-bottom: 18px;">
