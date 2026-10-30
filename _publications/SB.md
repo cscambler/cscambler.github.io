@@ -1,5 +1,5 @@
 ---
-title: "Review of Sharon Berry, A Logical Foundation for Potentialist Set Theory"
+title: "Review: Sharon Berry, A Logical Foundation for Potentialist Set Theory"
 collection: publications
 permalink: /publication/BerryReview
 excerpt: >-
