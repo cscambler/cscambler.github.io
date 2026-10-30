@@ -1,5 +1,5 @@
 ---
-title: "Set-theoretic Inevitability"
+title: "Set-theoretic Inevitability (with Cesare Straffelini)"
 collection: publications
 permalink: /publication/STI
 excerpt: >-
@@ -11,7 +11,7 @@ excerpt: >-
   Determinacy, and discuss their conceptual significance
   for the foundations of set theory.
 date: 2026-10-22
-venue: 'The Review of Symbolic Logic (accepted, 2026)'
+venue: 'The Review of Symbolic Logic (accepted)'
 paperurl: 'https://arxiv.org/abs/2610.31040'
 citation: 'Scambler, Chris and Cesare Straffelini. (2026). &quot;Set-theoretic Inevitability.&quot; <i>The Review of Symbolic Logic</i> (accepted for publication). <a href="https://arxiv.org/abs/2610.31040">arXiv:2610.31040</a>.'
 ---
